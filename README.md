@@ -18,7 +18,7 @@ Or add it to the `pubspec.yaml` yourself:
 
 ```yaml
 dev_dependencies:
-  apostrophy_lints: ^1.0.0
+  apostrophy_lints: 1.0.1
 ```
 
 ### Configure analysis options
@@ -34,5 +34,5 @@ include: package:apostrophy_lints/analysis_options.yaml
 Publishing a new version to pub.dev is automated. To initiate the process, create a new tag with title set to the required version.
 
 <!-- References -->
-[pub-version-img]: https://img.shields.io/badge/pub-v1.0.0-0175c2?logo=flutter
+[pub-version-img]: https://img.shields.io/badge/pub-v1.0.1-0175c2?logo=flutter
 [pub-version-url]: https://pub.dev/packages/apostrophy_lints

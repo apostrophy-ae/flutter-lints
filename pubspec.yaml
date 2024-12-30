@@ -1,6 +1,6 @@
 name: apostrophy_lints
 description: Flutter lint rules used in Apostrophy.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/apostrophy-ae/flutter-lints
 issue_tracker: https://github.com/apostrophy-ae/flutter-lints/issues
 repository: https://github.com/apostrophy-ae/flutter-lints/
